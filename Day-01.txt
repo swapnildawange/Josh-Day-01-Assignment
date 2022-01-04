@@ -1,0 +1,5 @@
+command to install git on ubuntu
+sudo apt-get install git
+1) initializing git
+    git init
+
