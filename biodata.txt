@@ -2,7 +2,6 @@ name: Swapnil Dawange
 Designation: Software Developer
 Address: Nashik,Maharashtra,India
 Contact: +919960518376
-Height:5.4
 Personal-Email:swapnildawange3650@gmail.com
 Work-Email:swapnil.dawange@joshsoftware.com
 Hobbies:Chess,audiobooks,sci-fi movies
