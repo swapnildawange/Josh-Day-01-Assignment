@@ -4,4 +4,5 @@ Address: Nashik,Maharashtra,India
 Contact: +919960518376
 Personal-Email:swapnildawange3650@gmail.com
 Work-Email:swapnil.dawange@joshsoftware.com
-Hobbies:Chess,audibooks,sci-fi movies
+Hobbies:Chess,audiobooks,sci-fi movies
+college:Sandip Institute of Engineering and Management,Nashik
