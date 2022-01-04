@@ -1,6 +1,0 @@
-command to install git on ubuntu
-sudo apt-get install git
-1) initializing git
-    git init
-2) Git difference:
-    to show the difference between commited file and staged file

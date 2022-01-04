@@ -1,5 +1,0 @@
-git reset :
-    to reset the changes made to a file
-    git reset set the changes to staged
-
-    reset this
